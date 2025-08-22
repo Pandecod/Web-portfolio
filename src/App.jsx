@@ -71,7 +71,7 @@ const App = () => {
               <p className="text-gray-500 mt-2">Tahun Pengalaman</p>
             </div>
             <div>
-              <h2 className="text-3xl font-bold text-blue-600">3+</h2>
+              <h2 className="text-3xl font-bold text-blue-600">5+</h2>
               <p className="text-gray-500 mt-2">Proyek Terselesaikan</p>
             </div>
             <div>
