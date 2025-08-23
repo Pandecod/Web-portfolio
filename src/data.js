@@ -143,7 +143,7 @@ export const listProyek = [
   {
     id: 3,
     gambar: Proyek3,
-    nama: 'Website Perpustakaan',
+    nama: 'Website e-commerce Amertha',
     desk: 'Website e-commerce dengan fitur katalog produk, keranjang belanja, dan checkout, dikembangkan bersama tim menggunakan WordPress.',
     tools: ['WordPress'],
     dad: '400',
@@ -151,7 +151,7 @@ export const listProyek = [
   {
     id: 4,
     gambar: Proyek4,
-    nama: 'Website e-commerce Amertha',
+    nama: 'Website Perpustakaan',
     desk: 'Aplikasi perpustakaan digital dengan fitur katalog buku, peminjaman, dan pengembalian.',
     tools: ['Bootstrap', 'PHP', 'MySQL'],
     dad: '400',
