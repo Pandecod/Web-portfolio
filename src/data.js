@@ -160,7 +160,7 @@ export const listProyek = [
   {
     id: 6,
     gambar: Proyek6,
-    nama: 'Website Perpustakaan',
+    nama: 'Website Portofolio',
     desk: 'Website portofolio pribadi untuk menampilkan profil, keterampilan, dan proyek, dibuat dengan React JS, Vite, dan Tailwind CSS.',
     tools: ['Tailwind CSS', 'Vite', 'React JS'],
     dad: '400',
