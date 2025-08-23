@@ -67,9 +67,10 @@ const App = () => {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 w-full text-center md:text-left">
             <div>
-              <h2 className="text-3xl font-bold text-blue-600">1+</h2>
+              <h2 className="text-3xl font-bold text-blue-600">3+</h2>
               <p className="text-gray-500 mt-2">Tahun Pengalaman</p>
             </div>
+
             <div>
               <h2 className="text-3xl font-bold text-blue-600">5+</h2>
               <p className="text-gray-500 mt-2">Proyek Terselesaikan</p>
